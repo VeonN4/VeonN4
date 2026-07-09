@@ -65,42 +65,7 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 ## ⌚ Playtime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-348%20hrs%2026%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 178.1 kB Used in GitHub's Storage 
- > 
-> 🏆 248 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 27 Public Repositories 
- > 
-> 🔑 13 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                119 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-🌆 Daytime                164 commits         ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-🌃 Evening                291 commits         ████████████░░░░░░░░░░░░░   48.50 % 
-🌙 Night                  26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Tuesday                  92 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Wednesday                99 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Thursday                 125 commits         █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Friday                   102 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Saturday                 89 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Sunday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-```
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -142,7 +107,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeonN4/VeonN4/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2026 07:56:33 UTC
+ Last Updated on 09/07/2026 08:07:27 UTC
 <!--END_SECTION:waka-->
 
 ---

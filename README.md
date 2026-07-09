@@ -1,7 +1,7 @@
 # Hi there! I'm Muhammad Razfaziya :wave:
 
 
-![](https://komarev.com/ghpvc/?username=VeonN4&style=flat-square) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fveonise.my.id)
+![](https://komarev.com/ghpvc/?username=VeonN4&style=flat-square) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fveonise.my.id) [![wakatime](https://wakatime.com/badge/user/22d3828d-610f-4f85-b24a-0d576a94c872.svg)](https://wakatime.com/@22d3828d-610f-4f85-b24a-0d576a94c872)
 
 A student at **SMKN 1 Cianjur** and someone who dreamed of being a **Software Engineer / AI Engineer**
 

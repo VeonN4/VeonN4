@@ -65,31 +65,6 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 ## ⌚ Playtime
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-Astro                    1 hr 4 mins         ████████████░░░░░░░░░░░░░   47.75 % 
-MDX                      32 mins             ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-CSS                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 14 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-personal-web             2 hrs 14 mins       █████████████████████████   99.91 % 
-contents                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-
-💻 Operating System: 
-Windows                  2 hrs 14 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -102,12 +77,8 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/VeonN4/VeonN4/main/assets/bar_graph.png)
-
-
- Last Updated on 09/07/2026 08:07:27 UTC
+ Last Updated on 09/07/2026 08:20:47 UTC
 <!--END_SECTION:waka-->
 
 ---

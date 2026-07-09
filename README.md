@@ -65,15 +65,6 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 ## ⌚ Playtime
 
 <!--START_SECTION:waka-->
-
-```txt
-Astro        1 hr 4 mins           ████████████░░░░░░░░░░░░░   47.75 %
-MDX          32 mins               ██████░░░░░░░░░░░░░░░░░░░   24.12 %
-CSS          16 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
-JavaScript   10 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-TypeScript   3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-```
-
 <!--END_SECTION:waka-->
 
 ---

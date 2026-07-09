@@ -1,0 +1,75 @@
+# Hi there! I'm Muhammad Razfaziya :wave:
+
+![](https://komarev.com/ghpvc/?username=VeonN4&style=flat-square) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fveonise.my.id)
+
+I am a student at **SMKN 1 Cianjur** and someone who dreamed of being a **Software Engineer / AI Engineer** who loves building random, cool stuff.
+
+Currently I'm interning as Full-Stack Developer at **Mobilus Interactive**.
+
+<br>
+    
+Learn more about my journey [here](https://veonise.my.id "My personal website").
+
+<br>
+<br>
+<br>
+
+<h2 align="left" id="tech">Tech</h2>
+
+> Language I'm currently focused on
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#homepage">
+        <img src="./asset/python.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#homepage">
+        <img src="./asset/javascript.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+  </tr>
+</table>
+
+> Some tech I used
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#homepage">
+        <img src="./asset/arch-linux.svg" width="48" height="48" alt="Arch" />
+      </a>
+      <br>Arch btw
+    </td>
+    <td align="center" width="96">
+      <a href="#homepage">
+        <img src="./asset/windows.svg" width="48" height="48" alt="Windows" />
+      </a>
+      <br>Windows
+    </td>
+    <td align="center" width="96">
+      <a href="#homepage">
+        <img src="./asset/vscode.svg" width="48" height="48" alt="VSCode" />
+      </a>
+      <br>VSCode
+    </td>
+  </tr>
+</table>
+
+## ⌚ Playtime
+
+<!--START_SECTION:waka-->
+
+```txt
+Astro        1 hr 4 mins           ████████████░░░░░░░░░░░░░   47.75 %
+MDX          32 mins               ██████░░░░░░░░░░░░░░░░░░░   24.12 %
+CSS          16 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
+JavaScript   10 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+TypeScript   3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+```
+
+<!--END_SECTION:waka-->

@@ -1,17 +1,17 @@
 # Hi there! I'm Muhammad Razfaziya :wave:
 
+
 ![](https://komarev.com/ghpvc/?username=VeonN4&style=flat-square) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fveonise.my.id)
 
-I am a student at **SMKN 1 Cianjur** and someone who dreamed of being a **Software Engineer / AI Engineer** who loves building random, cool stuff.
+A student at **SMKN 1 Cianjur** and someone who dreamed of being a **Software Engineer / AI Engineer**
 
-Currently I'm interning as Full-Stack Developer at **Mobilus Interactive**.
+Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-months.
 
 <br>
     
-Learn more about my journey [here](https://veonise.my.id "My personal website").
+> [!IMPORTANT]
+> Learn more about my journey [here](https://veonise.my.id "My personal website")...
 
-<br>
-<br>
 <br>
 
 <h2 align="left" id="tech">Tech</h2>
@@ -35,7 +35,7 @@ Learn more about my journey [here](https://veonise.my.id "My personal website").
   </tr>
 </table>
 
-> Some tech I used
+> Things I use...
 
 <table>
   <tr>
@@ -73,3 +73,7 @@ TypeScript   3 mins                ▓░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+---
+
+> *I'm way too lazy to make this good.*

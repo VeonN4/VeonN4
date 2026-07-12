@@ -71,43 +71,43 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Astro                    1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-MDX                      1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Markdown                 1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-YAML                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-JSON                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+TypeScript               1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Markdown                 1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+YAML                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+MDX                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+JSON                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 14 mins       ███████████████░░░░░░░░░░   61.41 % 
-VS Code                  2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   32.71 % 
-Antigravity CLI          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Neovim                   4 hrs 50 mins       ███████████████████░░░░░░   76.89 % 
+Antigravity CLI          55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+VS Code                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 
 🐱‍💻 Projects: 
-personal-web             2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   32.68 % 
-laravel-starterkit       1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-personal-website-revamped1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-VeonN4                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-portofolio_bs            32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+laravel-starterkit       1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+team-not-web             1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+personal-website-revamped1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+VeonN4                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+portofolio_bs            32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
 
 💻 Operating System: 
-Linux                    4 hrs 38 mins       █████████████████░░░░░░░░   67.29 % 
-Windows                  2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   32.71 % 
+Linux                    5 hrs 46 mins       ███████████████████████░░   91.62 % 
+Windows                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-Blade                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-PHP                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+TypeScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+Blade                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
 
 
- Last Updated on 11/07/2026 19:38:44 UTC
+ Last Updated on 12/07/2026 19:36:45 UTC
 <!--END_SECTION:waka-->
 
 ---

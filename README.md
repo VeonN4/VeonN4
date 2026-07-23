@@ -65,46 +65,20 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 ## ⌚ Playtime
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-TypeScript               14 hrs 13 mins      ██████████████████████░░░   86.66 % 
-YAML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-
-🔥 Editors: 
-Neovim                   16 hrs 24 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          9 hrs 26 mins       ██████████████░░░░░░░░░░░   57.51 % 
-link-shorten-web         4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-link-shortener-web       1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-notes-app-api            1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-team-not-web             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-
-💻 Operating System: 
-Linux                    16 hrs 24 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-Blade                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+TypeScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+PHP                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Blade                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
 
 
- Last Updated on 22/07/2026 19:51:17 UTC
+ Last Updated on 23/07/2026 19:53:36 UTC
 <!--END_SECTION:waka-->
 
 ---

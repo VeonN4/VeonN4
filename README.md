@@ -65,12 +65,40 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 ## ⌚ Playtime
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               12 hrs 59 mins      ███████████████████░░░░░░   76.75 % 
+Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+PHP                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+
+🔥 Editors: 
+Neovim                   16 hrs 12 mins      ████████████████████████░   95.73 % 
+Antigravity CLI          39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+
+🐱‍💻 Projects: 
+Unknown Project          4 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+link-shorten-web         4 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.21 % 
+link-shortener           3 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+report_app               2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+link-shortener-web       1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+
+💻 Operating System: 
+Linux                    16 hrs 56 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-PHP                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+TypeScript               13 repos            ████████░░░░░░░░░░░░░░░░░   30.95 % 
 Blade                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
@@ -78,7 +106,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:53:02 UTC
+ Last Updated on 25/07/2026 19:40:47 UTC
 <!--END_SECTION:waka-->
 
 ---

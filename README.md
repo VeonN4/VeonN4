@@ -71,26 +71,26 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               12 hrs 59 mins      ███████████████████░░░░░░   76.75 % 
-Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-PHP                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+TypeScript               10 hrs 40 mins      ███████████████████░░░░░░   76.10 % 
+Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+PHP                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 🔥 Editors: 
-Neovim                   16 hrs 12 mins      ████████████████████████░   95.73 % 
-Antigravity CLI          39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Neovim                   13 hrs 18 mins      ████████████████████████░   94.85 % 
+Antigravity CLI          39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-link-shorten-web         4 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-link-shortener           3 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-report_app               2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-link-shortener-web       1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+link-shorten-web         4 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.63 % 
+link-shortener           3 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.14 % 
+report_app               2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Unknown Project          1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+link-shortener-web       1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 
 💻 Operating System: 
-Linux                    16 hrs 56 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,7 +106,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:40:47 UTC
+ Last Updated on 26/07/2026 19:41:51 UTC
 <!--END_SECTION:waka-->
 
 ---

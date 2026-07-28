@@ -65,61 +65,6 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 ## ⌚ Playtime
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2014%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-TypeScript               10 hrs 40 mins      ███████████████████░░░░░░   76.10 % 
-Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-PHP                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-
-🔥 Editors: 
-Neovim                   13 hrs 18 mins      ████████████████████████░   94.85 % 
-Antigravity CLI          39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-
-🐱‍💻 Projects: 
-link-shorten-web         4 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.63 % 
-link-shortener           3 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.14 % 
-report_app               2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Unknown Project          1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-link-shortener-web       1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-
-💻 Operating System: 
-Linux                    14 hrs 2 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 20 mins (23.8%)
-
-✍️ 7,311 lines written by AI, 588 lines written by hand (92.56% AI-written)
-
-🔤 572,345 Input Tokens, 90,170 Output Tokens
-
-💵 $3.07 Estimated AI Cost This Week
-
-🧠 19 AI Sessions, 36 AI Prompts
-
-Mimo                     3,999 lines         ██████████████░░░░░░░░░░░   54.16 % 
-Deepseek                 3,192 lines         ███████████░░░░░░░░░░░░░░   43.23 % 
-Gemini                   193 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 92.56% of written lines came from AI
-📚 Verbose Prompter — average 14,746 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 11.09% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -133,7 +78,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 20:01:53 UTC
+ Last Updated on 28/07/2026 19:58:18 UTC
 <!--END_SECTION:waka-->
 
 ---

@@ -73,51 +73,51 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               5 hrs 50 mins       █████████████░░░░░░░░░░░░   53.37 % 
-PHP                      1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Bash                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Blade Template           31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+TypeScript               2 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   41.32 % 
+PHP                      1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+Markdown                 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Blade Template           31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+XML                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 13 mins      ███████████████████████░░   93.40 % 
-Antigravity CLI          39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Neovim                   6 hrs 35 mins       ███████████████████████░░   92.31 % 
+Antigravity CLI          29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🐱‍💻 Projects: 
-link-shortener           4 hrs 36 mins       ███████████░░░░░░░░░░░░░░   42.09 % 
-report_app               3 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.51 % 
-Unknown Project          2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-smkn1-katapang           45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-report_app_new           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+report_app               3 hrs 7 mins        ███████████░░░░░░░░░░░░░░   43.72 % 
+Unknown Project          2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.71 % 
+smkn1-katapang           54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+link-shortener           39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+report_app_new           10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 💻 Operating System: 
-Linux                    10 hrs 56 mins      █████████████████████████   100.00 % 
+Linux                    7 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 28 mins (40.89%)
+⏱ AI Coding Time: 3 hrs 31 mins (49.47%)
 
-✍️ 7,409 lines written by AI, 774 lines written by hand (90.54% AI-written)
+✍️ 6,254 lines written by AI, 680 lines written by hand (90.19% AI-written)
 
-🔤 1,666,076 Input Tokens, 101,842 Output Tokens
+🔤 1,626,199 Input Tokens, 85,722 Output Tokens
 
-💵 $6.53 Estimated AI Cost This Week
+💵 $6.16 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 56 AI Prompts
+🧠 21 AI Sessions, 45 AI Prompts
 
-Mimo                     4,103 lines         ██████████████░░░░░░░░░░░   54.79 % 
-Deepseek                 3,192 lines         ███████████░░░░░░░░░░░░░░   42.63 % 
-Gemini                   193 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Mimo                     4,103 lines         ████████████████░░░░░░░░░   64.97 % 
+Deepseek                 2,089 lines         ████████░░░░░░░░░░░░░░░░░   33.08 % 
+Gemini                   123 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.54% of written lines came from AI
-📚 Verbose Prompter — average 9,521 characters per prompt
+🤖 AI-Driven — 90.19% of written lines came from AI
+📚 Verbose Prompter — average 11,810 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 11.7% of changed lines were hand-edited
+🚀 High AI Trust — 11.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,7 +133,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 19:50:05 UTC
+ Last Updated on 30/07/2026 19:59:27 UTC
 <!--END_SECTION:waka-->
 
 ---

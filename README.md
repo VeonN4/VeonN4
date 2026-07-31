@@ -73,51 +73,46 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   41.32 % 
-PHP                      1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-Markdown                 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Blade Template           31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-XML                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+TypeScript               4 hrs 18 mins       ██████████████░░░░░░░░░░░   57.83 % 
+PHP                      59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Blade Template           31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 35 mins       ███████████████████████░░   92.31 % 
-Antigravity CLI          29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Neovim                   7 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-report_app               3 hrs 7 mins        ███████████░░░░░░░░░░░░░░   43.72 % 
-Unknown Project          2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.71 % 
-smkn1-katapang           54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-link-shortener           39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-report_app_new           10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Unknown Project          3 hrs 14 mins       ███████████░░░░░░░░░░░░░░   43.44 % 
+link-shortener           2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   30.76 % 
+smkn1-katapang           1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+report_app               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+report_app_new           10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 💻 Operating System: 
-Linux                    7 hrs 8 mins        █████████████████████████   100.00 % 
+Linux                    7 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 31 mins (49.47%)
+⏱ AI Coding Time: 1 hr 8 mins (15.23%)
 
-✍️ 6,254 lines written by AI, 680 lines written by hand (90.19% AI-written)
+✍️ 98 lines written by AI, 3,136 lines written by hand (3.03% AI-written)
 
-🔤 1,626,199 Input Tokens, 85,722 Output Tokens
+🔤 1,093,731 Input Tokens, 11,672 Output Tokens
 
-💵 $6.16 Estimated AI Cost This Week
+💵 $3.46 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 45 AI Prompts
+🧠 5 AI Sessions, 20 AI Prompts
 
-Mimo                     4,103 lines         ████████████████░░░░░░░░░   64.97 % 
-Deepseek                 2,089 lines         ████████░░░░░░░░░░░░░░░░░   33.08 % 
-Gemini                   123 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Mimo                     104 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.19% of written lines came from AI
-📚 Verbose Prompter — average 11,810 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 11.95% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 3.03% of written lines came from AI
+📝 Concise Prompter — average 118 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 96.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,7 +128,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 19:59:27 UTC
+ Last Updated on 31/07/2026 19:59:57 UTC
 <!--END_SECTION:waka-->
 
 ---

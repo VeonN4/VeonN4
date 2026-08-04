@@ -73,46 +73,29 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               4 hrs 18 mins       ██████████████░░░░░░░░░░░   57.83 % 
-PHP                      59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Blade Template           31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+TypeScript               5 hrs 5 mins        █████████████████░░░░░░░░   66.15 % 
+PHP                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Blade Template           29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 27 mins       █████████████████████████   100.00 % 
+Neovim                   7 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 14 mins       ███████████░░░░░░░░░░░░░░   43.44 % 
-link-shortener           2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   30.76 % 
-smkn1-katapang           1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-report_app               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-report_app_new           10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+link-shortener           5 hrs 12 mins       █████████████████░░░░░░░░   67.73 % 
+smkn1-katapang           1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Unknown Project          58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+react-router             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Linux                    7 hrs 27 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 8 mins (15.23%)
-
-✍️ 98 lines written by AI, 3,136 lines written by hand (3.03% AI-written)
-
-🔤 1,093,731 Input Tokens, 11,672 Output Tokens
-
-💵 $3.46 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 20 AI Prompts
-
-Mimo                     104 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.03% of written lines came from AI
-📝 Concise Prompter — average 118 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 96.99% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -128,7 +111,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 19:41:14 UTC
+ Last Updated on 04/08/2026 20:06:31 UTC
 <!--END_SECTION:waka-->
 
 ---

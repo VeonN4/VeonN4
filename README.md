@@ -65,6 +65,40 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 ## ⌚ Playtime
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2022%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               7 hrs 8 mins        ██████████████████░░░░░░░   71.79 % 
+Blade Template           51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Lua                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+PHP                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+
+🔥 Editors: 
+Neovim                   9 hrs 57 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+link-shortener           4 hrs               ██████████░░░░░░░░░░░░░░░   40.22 % 
+link-shortenter-monorepo 1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+smkn1-katapang           1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+2cm                      1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+2cm-monorepo             34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+
+💻 Operating System: 
+Linux                    9 hrs 57 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -78,7 +112,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 00:21:13 UTC
+ Last Updated on 07/08/2026 19:26:21 UTC
 <!--END_SECTION:waka-->
 
 ---

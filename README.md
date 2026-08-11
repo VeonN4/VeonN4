@@ -62,7 +62,7 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
   </tr>
 </table>
 
-## ⌚ Playtime
+## Playtime
 
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2022%20mins-blue?style=flat)

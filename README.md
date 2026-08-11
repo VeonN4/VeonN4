@@ -54,53 +54,54 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 ## Playtime
 
 <!--START_SECTION:waka-->
-
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2022%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
-💬 Programming Languages:
-TypeScript               7 hrs 8 mins        ██████████████████░░░░░░░   71.79 %
-Blade Template           51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-Lua                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-PHP                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+💬 Programming Languages: 
+TypeScript               5 hrs 41 mins       ██████████████████░░░░░░░   73.80 % 
+Blade Template           34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Lua                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+PHP                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
-🔥 Editors:
-Neovim                   9 hrs 57 mins       █████████████████████████   100.00 %
+🔥 Editors: 
+Neovim                   7 hrs 42 mins       █████████████████████████   100.00 % 
 
-🐱‍💻 Projects:
-link-shortener           4 hrs               ██████████░░░░░░░░░░░░░░░   40.22 %
-link-shortenter-monorepo 1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.96 %
-smkn1-katapang           1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
-2cm                      1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.24 %
-2cm-monorepo             34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+🐱‍💻 Projects: 
+link-shortener           2 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   30.97 % 
+link-shortenter-monorepo 1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+2cm                      1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+smkn1-katapang           59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+2cm-monorepo             34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 
-💻 Operating System:
-Linux                    9 hrs 57 mins       █████████████████████████   100.00 %
+💻 Operating System: 
+Linux                    7 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week**
+🤖 **AI Coding This Week** 
 
 ```text
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in TypeScript**
+**I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   29.27 %
-Blade                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+TypeScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+Blade                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
-Last Updated on 10/08/2026 19:27:56 UTC
 
+
+
+ Last Updated on 11/08/2026 19:31:40 UTC
 <!--END_SECTION:waka-->
 
 ---

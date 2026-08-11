@@ -5,6 +5,7 @@
 [![wakatime](https://wakatime.com/badge/user/22d3828d-610f-4f85-b24a-0d576a94c872.svg)](https://wakatime.com/@22d3828d-610f-4f85-b24a-0d576a94c872)
 
 I'm **Razfaziya**, a student at **SMKN 1 Cianjur**.
+
 Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-months.
 
 > [!IMPORTANT]

@@ -62,34 +62,34 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               4 hrs 1 min         ██████████████████░░░░░░░   70.26 % 
-JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Lua                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Blade Template           22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+TypeScript               3 hrs 52 mins       ███████████████████░░░░░░   74.31 % 
+JSON                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Lua                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 7 mins        ██████████████████████░░░   89.30 % 
-VS Code                  36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Neovim                   4 hrs 35 mins       ██████████████████████░░░   88.20 % 
+VS Code                  36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 
 🐱‍💻 Projects: 
-link-shortenter-monorepo 1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   31.16 % 
-2cm                      1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-2cm-monorepo             34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-billing                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Unknown Project          26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+link-shortenter-monorepo 1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   34.35 % 
+2cm                      1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+Unknown Project          48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+2cm-monorepo             34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+billing                  33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
 
 💻 Operating System: 
-Linux                    5 hrs 7 mins        ██████████████████████░░░   89.30 % 
-Windows                  36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Linux                    4 hrs 35 mins       ██████████████████████░░░   88.20 % 
+Windows                  36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (9.29%)
+⏱ AI Coding Time: 31 mins (10.24%)
 
-✍️ 1,126 lines written by AI, 299 lines written by hand (79.02% AI-written)
+✍️ 1,126 lines written by AI, 401 lines written by hand (73.74% AI-written)
 
 🔤 131,922 Input Tokens, 48,986 Output Tokens
 
@@ -101,10 +101,10 @@ Deepseek                 1,126 lines         ███████████�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.02% of written lines came from AI
+🤖 AI-Driven — 73.74% of written lines came from AI
 📝 Concise Prompter — average 42 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 35.95% of changed lines were hand-edited
+🚀 High AI Trust — 45.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -120,7 +120,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 19:33:46 UTC
+ Last Updated on 13/08/2026 19:31:50 UTC
 <!--END_SECTION:waka-->
 
 ---

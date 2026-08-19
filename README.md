@@ -62,48 +62,22 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               40 mins             █████████████████░░░░░░░░   68.69 % 
-JSON                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Markdown                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+TypeScript               22 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  36 mins             ████████████████░░░░░░░░░   62.31 % 
-Neovim                   22 mins             █████████░░░░░░░░░░░░░░░░   37.69 % 
+Neovim                   22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-billing                  33 mins             ██████████████░░░░░░░░░░░   56.94 % 
-Unknown Project          22 mins             █████████░░░░░░░░░░░░░░░░   37.69 % 
-VeonN4                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-2cm                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Unknown Project          22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  36 mins             ████████████████░░░░░░░░░   62.31 % 
-Linux                    22 mins             █████████░░░░░░░░░░░░░░░░   37.69 % 
+Linux                    22 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (54.08%)
-
-✍️ 1,126 lines written by AI, 123 lines written by hand (90.15% AI-written)
-
-🔤 131,922 Input Tokens, 48,986 Output Tokens
-
-💵 $6.53 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 9 AI Prompts
-
-Deepseek                 1,126 lines         █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 90.15% of written lines came from AI
-📝 Concise Prompter — average 42 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 22.88% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,7 +93,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 19:04:58 UTC
+ Last Updated on 19/08/2026 19:00:18 UTC
 <!--END_SECTION:waka-->
 
 ---

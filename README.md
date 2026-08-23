@@ -62,16 +62,19 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 14 mins        ███████████████████████░░   91.41 % 
+JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 21 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+banana-eater-bot         1 hr 21 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,7 +96,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 18:54:48 UTC
+ Last Updated on 23/08/2026 18:53:57 UTC
 <!--END_SECTION:waka-->
 
 ---

@@ -62,21 +62,21 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               3 hrs 11 mins       ████████████████████████░   94.17 % 
-Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+TypeScript               1 hr 54 mins        ███████████████████████░░   90.63 % 
+Python                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-banana-eater-bot         3 hrs 14 mins       ████████████████████████░   95.64 % 
-ddos                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+banana-eater-bot         1 hr 57 mins        ███████████████████████░░   92.99 % 
+ddos                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 
 💻 Operating System: 
-Windows                  3 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,7 +98,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 22:56:54 UTC
+ Last Updated on 01/09/2026 21:10:31 UTC
 <!--END_SECTION:waka-->
 
 ---

@@ -62,38 +62,64 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 44 mins        ███████████░░░░░░░░░░░░░░   45.47 % 
+Markdown                 1 hr 42 mins        ███████████░░░░░░░░░░░░░░   44.54 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+TSConfig                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 27 mins       ████████████████░░░░░░░░░   64.27 % 
+Neovim                   1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   35.73 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+management-sekolah       1 hr 48 mins        ████████████░░░░░░░░░░░░░   47.17 % 
+management-sekolah-be    1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   35.73 % 
+billing                  38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Veonise                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 27 mins       ████████████████░░░░░░░░░   64.27 % 
+Linux                    1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   35.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 39 mins (43.11%)
+
+✍️ 1,200 lines written by AI, 159 lines written by hand (88.3% AI-written)
+
+🔤 457,822 Input Tokens, 35,593 Output Tokens
+
+💵 $5.21 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 16 AI Prompts
+
+Spark                    1,161 lines         ████████████████████████░   96.75 % 
+Mimo                     39 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 88.3% of written lines came from AI
+📝 Concise Prompter — average 62 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 13.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-Blade                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+TypeScript               13 repos            ████████░░░░░░░░░░░░░░░░░   30.95 % 
+Blade                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
 
 
- Last Updated on 06/09/2026 20:34:29 UTC
+ Last Updated on 07/09/2026 21:38:06 UTC
 <!--END_SECTION:waka-->
 
 ---

@@ -54,7 +54,7 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 ## Playtime
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2032%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -62,33 +62,33 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 2 hrs 40 mins       ████████████░░░░░░░░░░░░░   46.36 % 
-TypeScript               2 hrs 35 mins       ███████████░░░░░░░░░░░░░░   44.81 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-TSConfig                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Markdown                 2 hrs 47 mins       ████████████░░░░░░░░░░░░░   47.41 % 
+TypeScript               2 hrs 35 mins       ███████████░░░░░░░░░░░░░░   43.93 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+TSConfig                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 24 mins       ███████████████████░░░░░░   76.28 % 
-Neovim                   1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+VS Code                  4 hrs 31 mins       ███████████████████░░░░░░   76.74 % 
+Neovim                   1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
 
 🐱‍💻 Projects: 
-management-sekolah       3 hrs 45 mins       ████████████████░░░░░░░░░   64.93 % 
-management-sekolah-be    1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-billing                  38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+management-sekolah       3 hrs 52 mins       ████████████████░░░░░░░░░   65.62 % 
+management-sekolah-be    1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+billing                  38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
 Veonise                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Windows                  4 hrs 24 mins       ███████████████████░░░░░░   76.28 % 
-Linux                    1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+Windows                  4 hrs 31 mins       ███████████████████░░░░░░   76.74 % 
+Linux                    1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 37 mins (45.41%)
+⏱ AI Coding Time: 2 hrs 37 mins (44.53%)
 
-✍️ 1,794 lines written by AI, 367 lines written by hand (83.02% AI-written)
+✍️ 1,794 lines written by AI, 377 lines written by hand (82.63% AI-written)
 
 🔤 589,740 Input Tokens, 67,330 Output Tokens
 
@@ -100,10 +100,10 @@ Spark                    1,758 lines         ███████████�
 Mimo                     39 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.02% of written lines came from AI
+🤖 AI-Driven — 82.63% of written lines came from AI
 📝 Concise Prompter — average 67 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 19.45% of changed lines were hand-edited
+🚀 High AI Trust — 19.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,7 +119,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 21:17:19 UTC
+ Last Updated on 09/09/2026 21:02:24 UTC
 <!--END_SECTION:waka-->
 
 ---

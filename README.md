@@ -62,46 +62,30 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 22 mins        ████████████░░░░░░░░░░░░░   48.95 % 
-Markdown                 1 hr 5 mins         ██████████░░░░░░░░░░░░░░░   38.90 % 
-Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+TypeScript               31 mins             ███████████████░░░░░░░░░░   61.42 % 
+Bash                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+Markdown                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 32 mins       ███████████████████████░░   90.77 % 
-Neovim                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+VS Code                  36 mins             █████████████████░░░░░░░░   69.95 % 
+Neovim                   15 mins             ████████░░░░░░░░░░░░░░░░░   30.05 % 
 
 🐱‍💻 Projects: 
-management-sekolah       2 hrs 3 mins        ██████████████████░░░░░░░   73.71 % 
-banana-eater-bot         28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-management-sekolah-be    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+banana-eater-bot         28 mins             ██████████████░░░░░░░░░░░   55.50 % 
+management-sekolah-be    15 mins             ████████░░░░░░░░░░░░░░░░░   30.05 % 
+management-sekolah       7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
 
 💻 Operating System: 
-Windows                  2 hrs 32 mins       ███████████████████████░░   90.77 % 
-Linux                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Windows                  36 mins             █████████████████░░░░░░░░   69.95 % 
+Linux                    15 mins             ████████░░░░░░░░░░░░░░░░░   30.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (34.76%)
-
-✍️ 594 lines written by AI, 240 lines written by hand (71.22% AI-written)
-
-🔤 131,918 Input Tokens, 31,737 Output Tokens
-
-💵 $10.37 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 22 AI Prompts
-
-Spark                    597 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 71.22% of written lines came from AI
-📝 Concise Prompter — average 71 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 33.59% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,7 +101,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 21:55:50 UTC
+ Last Updated on 15/09/2026 21:33:19 UTC
 <!--END_SECTION:waka-->
 
 ---

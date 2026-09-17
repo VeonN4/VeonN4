@@ -62,23 +62,25 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 33 mins       ███████████████████████░░   91.85 % 
-Bash                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               2 hrs 33 mins       █████████████████████░░░░   82.88 % 
+Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+PHP                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 31 mins       ███████████████████████░░   90.72 % 
-Neovim                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+VS Code                  2 hrs 49 mins       ███████████████████████░░   91.63 % 
+Neovim                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 
 🐱‍💻 Projects: 
-banana-eater-bot         2 hrs 31 mins       ███████████████████████░░   90.72 % 
-management-sekolah-be    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+banana-eater-bot         2 hrs 31 mins       ████████████████████░░░░░   81.86 % 
+management-sekolah-be    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+palikasi-paguyuban-komple15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+mail                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 💻 Operating System: 
-Windows                  2 hrs 31 mins       ███████████████████████░░   90.72 % 
-Linux                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Windows                  2 hrs 49 mins       ███████████████████████░░   91.63 % 
+Linux                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,7 +102,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 21:28:50 UTC
+ Last Updated on 17/09/2026 21:32:44 UTC
 <!--END_SECTION:waka-->
 
 ---

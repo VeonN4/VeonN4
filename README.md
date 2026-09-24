@@ -62,21 +62,19 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      10 mins             ██████████░░░░░░░░░░░░░░░   41.76 % 
-JSON                     6 mins              ███████░░░░░░░░░░░░░░░░░░   26.84 % 
-HTML                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Bash                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+PHP                      8 mins              ██████████████░░░░░░░░░░░   54.40 % 
+Bash                     6 mins              ███████████░░░░░░░░░░░░░░   42.37 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-palikasi-paguyuban-komple22 mins             ██████████████████████░░░   89.71 % 
-mail                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+palikasi-paguyuban-komple8 mins              ██████████████░░░░░░░░░░░   54.40 % 
+mobilus-pkl-dev          6 mins              ███████████░░░░░░░░░░░░░░   45.60 % 
 
 💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.00 % 
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,7 +96,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 21:37:10 UTC
+ Last Updated on 24/09/2026 21:38:07 UTC
 <!--END_SECTION:waka-->
 
 ---

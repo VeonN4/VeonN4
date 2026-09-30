@@ -62,26 +62,26 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 22 mins        ████████████████░░░░░░░░░   63.09 % 
-JSON                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-TSConfig                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+TypeScript               3 hrs 55 mins       ██████████████████░░░░░░░   72.25 % 
+JSON                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+TSConfig                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 7 mins        ████████████████████████░   97.87 % 
-Neovim                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+VS Code                  4 hrs 4 mins        ███████████████████░░░░░░   75.00 % 
+Neovim                   1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 
 🐱‍💻 Projects: 
-backend                  43 mins             ████████░░░░░░░░░░░░░░░░░   33.12 % 
-coalition                37 mins             ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-client                   37 mins             ███████░░░░░░░░░░░░░░░░░░   28.48 % 
-mobilus-pkl-dev          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+coalition                3 hrs 52 mins       ██████████████████░░░░░░░   71.55 % 
+backend                  43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+client                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+mobilus-pkl-dev          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-Windows                  2 hrs 7 mins        ████████████████████████░   97.87 % 
-Linux                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Windows                  4 hrs 4 mins        ███████████████████░░░░░░   75.00 % 
+Linux                    1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,9 +93,9 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               13 repos            ████████░░░░░░░░░░░░░░░░░   30.23 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+TypeScript               14 repos            ████████░░░░░░░░░░░░░░░░░   32.56 % 
 Blade                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
 Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
@@ -103,7 +103,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 22:27:14 UTC
+ Last Updated on 30/09/2026 22:26:08 UTC
 <!--END_SECTION:waka-->
 
 ---

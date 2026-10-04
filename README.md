@@ -62,26 +62,24 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               4 hrs 11 mins       ██████████████████░░░░░░░   70.54 % 
-JSON                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-TSConfig                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-env                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+TypeScript               2 hrs 51 mins       ████████████████░░░░░░░░░   62.18 % 
+JSON                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+TSConfig                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+env                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 1 min         █████████████████░░░░░░░░   67.77 % 
-Neovim                   1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   32.23 % 
+VS Code                  2 hrs 41 mins       ███████████████░░░░░░░░░░   58.39 % 
+Neovim                   1 hr 55 mins        ██████████░░░░░░░░░░░░░░░   41.61 % 
 
 🐱‍💻 Projects: 
-coalition                4 hrs 29 mins       ███████████████████░░░░░░   75.43 % 
-backend                  43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-client                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-tesitngsdaf              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+coalition                4 hrs 29 mins       ████████████████████████░   97.38 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+tesitngsdaf              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 💻 Operating System: 
-Windows                  4 hrs 1 min         █████████████████░░░░░░░░   67.77 % 
-Linux                    1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   32.23 % 
+Windows                  2 hrs 41 mins       ███████████████░░░░░░░░░░   58.39 % 
+Linux                    1 hr 55 mins        ██████████░░░░░░░░░░░░░░░   41.61 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -103,7 +101,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 21:33:48 UTC
+ Last Updated on 04/10/2026 21:42:18 UTC
 <!--END_SECTION:waka-->
 
 ---

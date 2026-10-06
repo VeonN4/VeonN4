@@ -62,24 +62,22 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 51 mins       ████████████████░░░░░░░░░   62.18 % 
-JSON                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-TSConfig                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-env                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+TypeScript               2 hrs 49 mins       ██████████████████░░░░░░░   73.25 % 
+TSConfig                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+env                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 41 mins       ███████████████░░░░░░░░░░   58.39 % 
-Neovim                   1 hr 55 mins        ██████████░░░░░░░░░░░░░░░   41.61 % 
+VS Code                  2 hrs 1 min         █████████████░░░░░░░░░░░░   52.33 % 
+Neovim                   1 hr 50 mins        ████████████░░░░░░░░░░░░░   47.67 % 
 
 🐱‍💻 Projects: 
-coalition                4 hrs 29 mins       ████████████████████████░   97.38 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-tesitngsdaf              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+coalition                3 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 41 mins       ███████████████░░░░░░░░░░   58.39 % 
-Linux                    1 hr 55 mins        ██████████░░░░░░░░░░░░░░░   41.61 % 
+Windows                  2 hrs 1 min         █████████████░░░░░░░░░░░░   52.33 % 
+Linux                    1 hr 50 mins        ████████████░░░░░░░░░░░░░   47.67 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -101,7 +99,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 00:12:31 UTC
+ Last Updated on 06/10/2026 22:42:59 UTC
 <!--END_SECTION:waka-->
 
 ---

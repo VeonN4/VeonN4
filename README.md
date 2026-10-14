@@ -62,44 +62,22 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               42 mins             ████████████████████████░   97.57 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  38 mins             ██████████████████████░░░   88.05 % 
-Opencode Cli             5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-coalition                43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (37.87%)
-
-✍️ 207 lines written by AI, 22 lines written by hand (90.39% AI-written)
-
-🔤 56,138 Input Tokens, 16,813 Output Tokens
-
-💵 $4.14 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 7 AI Prompts
-
-MiMo                     207 lines           █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 90.39% of written lines came from AI
-📝 Concise Prompter — average 41 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 11.54% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,7 +93,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 22:57:41 UTC
+ Last Updated on 14/10/2026 21:50:04 UTC
 <!--END_SECTION:waka-->
 
 ---

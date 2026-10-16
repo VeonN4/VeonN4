@@ -62,22 +62,43 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 59 mins        ██████████████████████░░░   89.55 % 
+JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+coalition                2 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 49 mins (37.09%)
+
+✍️ 639 lines written by AI, 121 lines written by hand (84.08% AI-written)
+
+🔤 1,300,038 Input Tokens, 72,368 Output Tokens
+
+💵 $28.40 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 4 AI Prompts
+
+Spark                    639 lines           █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 84.08% of written lines came from AI
+📄 Detailed Prompter — average 1,120 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 44.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -93,7 +114,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 21:34:12 UTC
+ Last Updated on 16/10/2026 21:26:56 UTC
 <!--END_SECTION:waka-->
 
 ---

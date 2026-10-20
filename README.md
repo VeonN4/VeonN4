@@ -54,7 +54,7 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 ## Playtime
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%208%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -62,48 +62,50 @@ Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-mon
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               7 hrs 58 mins       █████████████████████░░░░   83.05 % 
-JSON                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+TypeScript               9 hrs 59 mins       █████████████████████░░░░   83.05 % 
+JSON                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-VS Code                  8 hrs               █████████████████████░░░░   83.35 % 
-Opencode Cli             52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-OpenCode                 43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+VS Code                  9 hrs 11 mins       ███████████████████░░░░░░   76.37 % 
+OpenCode                 1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Opencode Cli             57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Antigravity CLI          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-coalition                9 hrs 10 mins       ████████████████████████░   95.59 % 
-Postgres                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+coalition                11 hrs 36 mins      ████████████████████████░   96.48 % 
+Postgres                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 💻 Operating System: 
-Windows                  9 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 19 mins (34.62%)
+⏱ AI Coding Time: 4 hrs 55 mins (40.95%)
 
-✍️ 1,006 lines written by AI, 544 lines written by hand (64.9% AI-written)
+✍️ 1,260 lines written by AI, 649 lines written by hand (66.0% AI-written)
 
-🔤 2,042,856 Input Tokens, 286,023 Output Tokens
+🔤 2,318,047 Input Tokens, 339,810 Output Tokens
 
-💵 $83.10 Estimated AI Cost This Week
+💵 $101.88 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 32 AI Prompts
+🧠 14 AI Sessions, 46 AI Prompts
 
-Spark                    639 lines           ███████████████░░░░░░░░░░   60.06 % 
-DeepSeek                 374 lines           █████████░░░░░░░░░░░░░░░░   35.15 % 
-MiMo                     51 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+DeepSeek                 645 lines           ████████████░░░░░░░░░░░░░   48.31 % 
+Spark                    639 lines           ████████████░░░░░░░░░░░░░   47.87 % 
+MiMo                     51 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.9% of written lines came from AI
-📝 Concise Prompter — average 248 characters per prompt
+🤖 AI-Driven — 66.0% of written lines came from AI
+📝 Concise Prompter — average 179 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 51.79% of changed lines were hand-edited
+🚀 High AI Trust — 49.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,7 +121,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 22:31:05 UTC
+ Last Updated on 20/10/2026 21:45:59 UTC
 <!--END_SECTION:waka-->
 
 ---

@@ -6,7 +6,7 @@
 
 I'm **Razfaziya**, a student at **SMKN 1 Cianjur**.
 
-Currently interning as Full-Stack Developer at **Mobilus Interactive** for 3-months.
+Currently building random things...
 
 > [!IMPORTANT]
 > Learn more about my journey [here](https://veonise.my.id "My personal website")...
